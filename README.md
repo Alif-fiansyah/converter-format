@@ -88,5 +88,5 @@ CMD ["python", "bot.py"]
 
 ## 👤 Author
 
-* **Lifianshi**
+* **Lifianzhi**
 * GitHub: [@Alif-fiansyah](https://github.com/Alif-fiansyah)
