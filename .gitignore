@@ -1,0 +1,17 @@
+# Environment variables / Token rahasia
+.env
+
+# Folder unduhan dan file sementara
+downloads/
+temp/
+
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+$venv/
+venv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
